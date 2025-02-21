@@ -6,6 +6,7 @@ public class Main{
 
         System.out.println("Now playing the song");
         mbox.playSong(mbox.getSongID(), mbox.getPremiumSong(), 2);
+        System.out.println("234");
         
         // --- TODO
 
